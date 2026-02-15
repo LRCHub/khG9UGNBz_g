@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ミックス",
+  "base_artist": "マルシィ",
+  "createdAt": "2026-02-15T16:52:03.786708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Say You'll Be There (シングル・ミックス)",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/01_Say_You'll_Be_There_(シングル・ミックス)_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サムライソウル (シングル・ミックス)",
+      "artist": "ウルフルズ",
+      "has_synced": false,
+      "path": "select/02_サムライソウル_(シングル・ミックス)_ウルフルズ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スマイル・フォー・ミー (スペース・オブ・ラヴ・ミックス)",
+      "artist": "小比類巻かほる",
+      "has_synced": false,
+      "path": "select/03_スマイル・フォー・ミー_(スペース・オブ・ラヴ・ミックス)_小比類巻かほる.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブラザーフッド・オブ・ザ・スネイク (オルタナティヴ・ミックス (日本盤限定ボーナストラック))",
+      "artist": "Testament",
+      "has_synced": false,
+      "path": "select/04_ブラザーフッド・オブ・ザ・スネイク_(オルタナティヴ・ミックス_(日本盤限定ボーナストラック))_Testament.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say You'll Be There (シングル・ミックス)",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/05_Say_You'll_Be_There_(シングル・ミックス)_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "出逢い (オーケストラ・ミックス)",
+      "artist": "Esprit D'Air",
+      "has_synced": false,
+      "path": "select/06_出逢い_(オーケストラ・ミックス)_Esprit_D'Air.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ガッツだぜ!! - アルバム・ミックス",
+      "artist": "Ulfuls",
+      "has_synced": true,
+      "path": "select/07_ガッツだぜ!!_-_アルバム・ミックス_Ulfuls.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オー・シャンゼリゼ　(スウィート・ミックス)",
+      "artist": "Clémentine",
+      "has_synced": false,
+      "path": "select/08_オー・シャンゼリゼ_(スウィート・ミックス)_Clémentine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ザ・ミーハー(スペシャル・ミーハー・ミックス)",
+      "artist": "森高千里",
+      "has_synced": false,
+      "path": "select/09_ザ・ミーハー(スペシャル・ミーハー・ミックス)_森高千里.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ザ・ミーハー(スペシャル・ミーハー・ミックス)",
+      "artist": "Moritaka, Chisato",
+      "has_synced": false,
+      "path": "select/10_ザ・ミーハー(スペシャル・ミーハー・ミックス)_Moritaka,_Chisato.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ザ・ミーハー(スペシャル・ミーハー・ミックス)",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/11_ザ・ミーハー(スペシャル・ミーハー・ミックス)_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ザ・ミーハー (スペシャル・ミーハー・ミックス)",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/12_ザ・ミーハー_(スペシャル・ミーハー・ミックス)_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Say You'll Be There (シングル・ミックス)",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/13_Say_You'll_Be_There_(シングル・ミックス)_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ミックス - Mix",
+      "artist": "Marcy",
+      "has_synced": true,
+      "path": "select/14_ミックス_-_Mix_Marcy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ザ・ミーハー - スペシャル・ミーハー・ミックス; 2012 Remaster",
+      "artist": "Chisato Moritaka",
+      "has_synced": false,
+      "path": "select/15_ザ・ミーハー_-_スペシャル・ミーハー・ミックス;_2012_Remaster_Chisato_Moritaka.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Seven Days War(フォー・ピーシーズ・バンド・ミックス)",
+      "artist": "TM NETWORK",
+      "has_synced": false,
+      "path": "select/16_Seven_Days_War(フォー・ピーシーズ・バンド・ミックス)_TM_NETWORK.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "American Idiot - スタジオ・ミックス",
+      "artist": "5 Seconds of Summer",
+      "has_synced": true,
+      "path": "select/17_American_Idiot_-_スタジオ・ミックス_5_Seconds_of_Summer.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Say You'll Be There (シングル・ミックス)",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/18_Say_You'll_Be_There_(シングル・ミックス)_Spice_Girls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミックス",
+      "artist": "マルシィ",
+      "has_synced": false,
+      "path": "select/pl_01_ミックス_マルシィ.txt"
+    }
+  ]
+}
